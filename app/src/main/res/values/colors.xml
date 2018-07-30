@@ -1,0 +1,5 @@
+<resources>
+    <color name="cat_bg_trendingnow">#16AFCA</color>
+    <color name="cat_bg_new">#8800A0</color>
+    <color name="cat_bg_top_audio">#FD8E09</color>
+</resources>
